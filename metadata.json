@@ -1,0 +1,6 @@
+{
+  "name": "EventPulse Live",
+  "description": "Live event operations command center and attendee social post studio for conferences and summits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
